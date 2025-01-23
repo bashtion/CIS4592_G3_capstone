@@ -1,5 +1,6 @@
 ## CIS4592_G3_capstone (Change to Project Title later)
 Group 3's Capstone Project for Spring 2025
+--Remember to add topics once discussing with group what type of app we are developing--
 
 ## Introduction
 
